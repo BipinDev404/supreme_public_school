@@ -1,0 +1,8 @@
+{
+  "name": "Supreme Public School",
+  "description": "Supreme Public School, Dumari, Bihar. CBSE pattern, English medium, Play to Class VIII. Established 2019.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
